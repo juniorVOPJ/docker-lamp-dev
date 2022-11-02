@@ -40,9 +40,6 @@
                                     mysqli_close($link);
                                     ?>
                                 </li>
-                                <li>
-                                    <?=openssl_get_cert_locations(["default_cert_file"]);?>
-                                </li>
                             </ul>
                         </div>
                     </div>
