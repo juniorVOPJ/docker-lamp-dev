@@ -13,7 +13,7 @@ RUN apt-get -y update --fix-missing && \
 
 # Instalar ferramentas
 RUN apt-get -y update && \
-    apt-get -y --no-install-recommends install net-tools nano wget \
+    apt-get -y --no-install-recommends install zip unzip net-tools nano wget \
 dialog \
 libsqlite3-dev \
 libsqlite3-0 && \
