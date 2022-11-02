@@ -1,5 +1,5 @@
 # docker-lamp-dev
-Ambiente de desenvolvimento LAMP + SLL + MultiSite + Docker Compose
+Ambiente de desenvolvimento LAMP + PHP Composer + SSL + MultiSite + Docker Compose
 
 A basic LAMP stack environment built using Docker Compose. It consists of the following:
 
